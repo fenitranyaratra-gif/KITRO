@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer-grid">
           <div>
-            <div className="footer-logo">GAZU</div>
+            <div className="footer-logo">KITRO</div>
             <p style={{ maxWidth: 260, lineHeight: 1.6 }}>
               Fashion that moves with you. Elevated essentials for men,
               women and kids.
@@ -26,14 +26,14 @@ export default function Footer() {
           </div>
           <div className="footer-col">
             <h5>COMPANY</h5>
-            <a href="#">About Gazu</a>
+            <a href="#">About KITRO</a>
             <a href="#">Careers</a>
             <a href="#">Privacy Policy</a>
             <a href="#">Terms of Service</a>
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© 2024 GAZU. All rights reserved.</span>
+          <span>© 2024 KITRO. All rights reserved.</span>
           <span>Made with care.</span>
         </div>
       </div>
