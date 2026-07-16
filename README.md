@@ -1,4 +1,4 @@
-# GAZU — Site e-commerce (React)
+# KITRO — Site e-commerce (React)
 
 Réplique du design GAZU en React + Vite.
 
@@ -32,5 +32,3 @@ npm run build
 - `src/components/BestOf.jsx` — grille produits "BEST OF GAZU"
 - `src/components/Footer.jsx` — pied de page
 
-Les images sont chargées depuis Unsplash à titre d'exemple — remplace les URLs dans les composants par tes propres visuels produits.
-"# KITRO" 
